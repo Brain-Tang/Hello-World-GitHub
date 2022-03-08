@@ -1,4 +1,4 @@
-name: Greeting from <Your_Name>
+name: Greeting from Tang Wai Lun
 on: push
 jobs:
 my-job:
@@ -12,4 +12,4 @@ FIRST_NAME: Wai
 MIDDLE_NAME: Lun
 LAST_NAME: Tang
 run: |
-echo $MY_VAR $FIRST_NAME $MIDDLE_NAME $LAST_NAME
+echo $MY_VAR $FIRST_NAME $MIDDLE_NAME $LAST_NAME.
